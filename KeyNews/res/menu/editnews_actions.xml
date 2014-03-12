@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_view"
+        android:title="@string/view_news_feed"/>
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings"/>
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/exit"/>
+
+</menu>
